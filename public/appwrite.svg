@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 257" width="256" height="257">
+  <defs>
+    <linearGradient id="appwriteGradient" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF1CF7" />
+      <stop offset="100%" stop-color="#FF933E" />
+    </linearGradient>
+  </defs>
+  <g fill="none">
+    <path fill="url(#appwriteGradient)" d="M128 0C57.3 0 0 57.4 0 128s57.3 128 128 128c70.7 0 128-57.4 128-128S198.7 0 128 0zm0 240c-61.8 0-112-50.2-112-112S66.2 16 128 16s112 50.2 112 112-50.2 112-112 112z"/>
+    <path fill="#FFF" d="M128 96c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.33-32-32-32zm0 48a16 16 0 110-32 16 16 0 010 32z"/>
+  </g>
+</svg>
