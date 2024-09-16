@@ -220,6 +220,6 @@ export const navItems = [
     {
       id: 3,
       img: "/link.svg",
-      link: "www.linkedin.com/in/hugo-misery",
+      link: "https://www.linkedin.com/in/hugo-misery",
     },
   ];
