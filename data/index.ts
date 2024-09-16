@@ -80,27 +80,27 @@ export const navItems = [
     },
     {
       id: 2,
+      title: "Les gouttes de Dieu",
+      des: "Site pour restaurant design, entièrement produit en react",
+      img: "/lgdd.png",
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg"],
+      link: "https://lgdd-inrx.vercel.app/",
+    },
+    {
+      id: 3,
       title: "Not Twitter - Social média app",
-      des: "Il s'agit d'un clone de Twitter, créé avec la stack MERN pour apprendre à construire les APIs d'une application.",
+      des: "Clone de Twitter, créé avec la stack MERN pour apprendre à construire les APIs d'une application.",
       img: "/nottwitter.png",
       iconLists: ["/md.svg", "/express.svg", "/re.svg","/nodejs.svg", "/tail.svg"],
       link: "https://nottwitter-3ue4.onrender.com/",
     },
     {
-      id: 3,
+      id: 4,
       title: "Carepulse - Système de gestion des patients dans le secteur de la santé",
       des: "Une plateforme intuitive pour la gestion centralisée des rendez-vous et des patients par le biais d'un tableau de bord administratif.",
       img: "/carepulse1.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg", "/app.svg"],
       link: "https://healthcara-mngt.vercel.app/",
-    },
-    {
-      id: 4,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
     }
     //,
     // {
