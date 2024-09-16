@@ -215,13 +215,11 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
-    },
-    {
-      id: 2,
-      img: "/twit.svg",
+      link: "https://github.com/Miser-record-lab",
     },
     {
       id: 3,
       img: "/link.svg",
+      link: "www.linkedin.com/in/hugo-misery",
     },
   ];
