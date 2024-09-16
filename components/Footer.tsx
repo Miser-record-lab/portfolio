@@ -15,14 +15,14 @@ const Footer = () => {
         </div>
         <div className="flex flex-col items-center">
             <h1 className="heading lg:max-w-[45vw]">
-                Ready to take <span className="text-purple">your</span> digital presence to the next level?
+                Prêt à transformer l'efficacité de <span className="text-purple">vos services</span> grâce à des solutions digitales sur mesure ?
             </h1>
             <p className="text-white-200 md:mt-10 my-5 text-center">
-                Reach out to me today and let&apos;s discuss how I can help you achieve your goals.
+                Contactez-moi dès aujourd'hui et discutons de la manière dont je peux vous aider à atteindre vos objectifs.
             </p>
             <a href="mailto:miseryh.pro@gmail.com">
                 <MagicButton 
-                    title="Let's get in touch"
+                    title="Prenons contact"
                     icon={<FaLocationArrow />}
                     position="right"
                 />
